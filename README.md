@@ -9,7 +9,7 @@
 
 <body>
     <div align="center">
-        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
+        <img src="https://cardivo.vercel.app/api?name=Darkcore%20&description=%E2%80%9DUn%20bot%20avanzado%20para%20automatizar%20tareas%20en%20WhatsApp%E2%80%9D&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@&github=&pattern=leaf&colorPattern=%23eaeaea" alt="ảnh gif">
     </div>
     <div align ="center">
         <p>
