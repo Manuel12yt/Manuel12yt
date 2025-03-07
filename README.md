@@ -8,10 +8,16 @@
 </head>
 
 <body>
-    <h3 style="text-align: center;">Hola 👋 mi nombre es Manuel😎</h3>
+    <div>
+         <h3 align="center">Hola 👋 mi nombre es Manuel😎</h3>
+    <div/>
     <div align="center">
-        <img src="https://cardivo.vercel.app/api?name=Darkcore%20&description=%F0%9F%92%BB%20Node.js%20|%20%E2%9A%A1%20Baileys%20|%20whatsapp-web.js%20|%20%F0%9F%93%A1%20APIs%20&%20Web%20Scraping&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@&github=&pattern=leaf&colorPattern=%23eaeaea" alt="ảnh gif">
-    </div>
+    <img src="https://cardivo.vercel.app/api?name=Darkcore%20&description=%F0%9F%92%BB%20Node.js%20|%20%E2%9A%A1%20Baileys%20|%20whatsapp-web.js%20|%20%F0%9F%93%A1%20APIs%20&%20Web%20Scraping&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@&github=&pattern=leaf&colorPattern=%23eaeaea" 
+       alt="ảnh gif" 
+       width="600px" 
+       style="border-radius: 15px;">
+</div>
+<body>
     <div align ="center">
         <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
