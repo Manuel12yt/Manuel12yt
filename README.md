@@ -27,35 +27,29 @@
     </div>
     <hr width="100%">
     <a href="https://app.daily.dev/Manuel12yt"><img align="right"
-            src="https://api.daily.dev/devcards/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="400"
-            alt="Lê Bá Thắng's Dev Card" />
+            src="" width="400"
+            alt="#" />
     <div>
-            <h3>Hi 👋 my name is Thang 😎</h3>
+            <h3>Hola 👋 mi nombre es Manuel😎</h3>
     </a>
     <ul>
         <li>
-            🤗 I'm a newbie in Github 🥳
+            🤗 Soy un Profecional en Github 🥳
         </li>
         <li>
-            👉 I'm a man student 👨‍🎓
+            📝 Y estoy estudiando inglés pero soy muy perezoso 😅
         </li>
         <li>
-            📝 And I'm studying English but I'm very lazy 😅
+            🏡 Estoy viviendo en una pequeña ciudad en <code>Vi- ⁇ t Nam</code> 🇻🇳 👈  ⁇ 
         </li>
         <li>
-            🏡 I'm living in a small city in <code>Việt Nam</code> 🇻🇳 👈 🏙️
+             ❤️  Quiero estudiar y cómo escribir un programa👀
         </li>
         <li>
-            ✍️ I want to study <code>code</code> and <code>how to write a program</code> 👀
+            💯 Estoy muy feliz cuando lees mi perfil pero no creo que mi perfil sea profesional 🙄
         </li>
         <li>
-            💯 I'm very happy when you read my profile but I don't think my profile is professtion 🙄
-        </li>
-        <li>
-            💬 this is the first time I create a repository so I hope you will like my profile 👍
-        </li>
-        <li>
-            ❤️ thank you so much for reading it ❤️
+             ❤️  muchas gracias por leerlo  ❤️
         </li>
     </ul>
     </div>
@@ -121,88 +115,3 @@
             <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
         </p>
     </div>
-    <br>
-    <hr width="100%">
-    <div>
-        <p align=center>
-        <div align=center>
-            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-                <img align="left" width=390
-                    src="https://pr0vjp-github-readme.vercel.app/api?username=Manuel12yt&show_icons=true&theme=midnight-purple&hide_border=true" />
-            </a>
-            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-                <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=Manuel12yt&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
-            </a>
-        </div>
-        <br><br><br><br><br><br><br><br><br>
-        <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=Manuel12yt&theme=midnight-purple&&hide_border=truelangs_count=8"
-                alt="top langs" />
-            </p>
-        </div>
-        <!-- <div>
-            <h2 align="center">📝 Extras 📝</h2>
-            <details>
-                <summary>Click to expand!</summary>
-                <br>
-                <p>
-                </p>
-                <br>
-                <p>
-                    <img
-                        src="https://github-profile-trophy.vercel.app/?username=Manuel12yt&theme=onedark&column=3&margin-w=15&margin-h=15" />
-                </p>
-                <br>
-                <img src="https://metrics.lecoq.io/lebathang?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&achievements=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSaigon&config.twemoji=true"
-                    alt="Detailed Github Stats" />
-            </details>
-        </div> -->
-        <!-- phần repo -->
-        <div >
-            <p align="center">
-                <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manuel12yt&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manuel12yt&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Manuel12yt&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
-            </p>
-        </div>
-        <hr width="100%">
-        <div>
-            <h3 align="center"> 🥰 Connect with me:</h3>
-            <p align="center">
-                <a href="https://discord.com/channels/@me/835488546897920021">
-                    <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
-                        alt="connect discord">
-                </a>
-            </p>
-            <p align="center">
-                ❤️
-                <a href="https://www.facebook.com/profile.php?id=100016824016369" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/Manuel12yt/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="lê bá thắng" height="30" width="40" /></a>
-                <a href="https://twitter.com/Thang_pr0vjp123" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/Manuel12yt/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="provjp" height="30" width="40" /></a>
-                <a href="https://www.instagram.com/lebathang10a6/" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                        alt="lebathang" height="30" width="40" /></a>
-                <a href="https://medium.com/@lebathang" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/Manuel12yt/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-                        alt="@lebathang7b" height="30" width="40" /></a>
-                <a href="https://stackoverflow.com/users/19120952" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/Manuel12yt/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                        alt="user:19120952" height="30" width="40" /></a>
-                ❤️
-            </p>
-        </div>
-        <hr width="100%">
-        <div>
-            <h2 align="center"> 💻 Github Contributions :electron: </h2>
-            <br>
-            <div align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuel12yt&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true"
-                    alt="readme active graph" />
-            </div>
-</body>
-
-</html>
