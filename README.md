@@ -8,8 +8,9 @@
 </head>
 
 <body>
+    <h3 style="text-align: center;">Hola 👋 mi nombre es Manuel😎</h3>
     <div align="center">
-        <img src="https://cardivo.vercel.app/api?name=Darkcore%20&description=%E2%80%9DUn%20bot%20avanzado%20para%20automatizar%20tareas%20en%20WhatsApp%E2%80%9D&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@&github=&pattern=leaf&colorPattern=%23eaeaea" alt="ảnh gif">
+        <img src="https://cardivo.vercel.app/api?name=Darkcore%20&description=%F0%9F%92%BB%20Node.js%20|%20%E2%9A%A1%20Baileys%20|%20whatsapp-web.js%20|%20%F0%9F%93%A1%20APIs%20&%20Web%20Scraping&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@&github=&pattern=leaf&colorPattern=%23eaeaea" alt="ảnh gif">
     </div>
     <div align ="center">
         <p>
@@ -30,7 +31,6 @@
             src="" width="400"
             alt="#" />
     <div>
-            <h3>Hola 👋 mi nombre es Manuel😎</h3>
     </a>
     <ul>
         <li>
@@ -40,7 +40,7 @@
             📝 Y estoy estudiando inglés pero soy muy perezoso 😅
         </li>
         <li>
-            🏡 Estoy viviendo en una pequeña ciudad en <code>Vi- ⁇ t Nam</code> 🇻🇳 👈  ⁇ 
+            🏡 Estoy viviendo en una pequeña ciudad
         </li>
         <li>
              ❤️  Quiero estudiar y cómo escribir un programa👀
