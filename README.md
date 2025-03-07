@@ -46,12 +46,6 @@
             📝 Y estoy estudiando inglés pero soy muy perezoso 😅
         </li>
         <li>
-            🏡 Estoy viviendo en una pequeña ciudad
-        </li>
-        <li>
-             ❤️  Quiero estudiar y cómo escribir un programa👀
-        </li>
-        <li>
             💯 Estoy muy feliz cuando lees mi perfil pero no creo que mi perfil sea profesional 🙄
         </li>
         <li>
