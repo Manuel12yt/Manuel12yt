@@ -1,15 +1,42 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-### <h1>hola 👋 soy DarkCore</h1>
+<img align="right" height="270px" alt="DarkCore" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-> I am Sr fullStack developer & Tech Lead
-<br />
+# 👋 ¡Hola! Soy **DarkCore**  
 
-<!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **isc.Manuel12yt@gmail.com**
-- 📝 I studied at Tecnológico Nacional de México
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=Manuel12yt&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
-	<a href="https://github.com/Manuel12yt?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+🚀 **Sr. FullStack Developer** | 💻 **Tech Lead**  
+📍 Apasionado por la tecnología, la automatización y el desarrollo de bots inteligentes.  
+
+---
+
+### 🛠️ **Sobre mí**  
+🔹 Soy un desarrollador especializado en soluciones de automatización y bots avanzados.  
+🔹 Me encanta explorar nuevas tecnologías y mejorar procesos con código.  
+🔹 Siempre en busca de desafíos que me permitan crecer profesionalmente.  
+
+---
+
+### 🌐 **Conéctate conmigo**  
+🎓 **Educación:** Tecnológico Nacional de Peru  
+👔 **LinkedIn:** [Conéctate conmigo]()  
+🛠️ **GitHub:** [Mi repositorio](https://github.com/Manuel12yt)  
+
+---
+
+### 💬 **¿En qué puedo ayudarte?**  
+✔️ Desarrollo FullStack (JavaScript, Node.js, React, etc.)  
+✔️ Creación de bots para WhatsApp y Telegram  
+✔️ Soluciones en automatización y scraping  
+✔️ Optimización de código y rendimiento  
+
+---
+
+### 📊 **Estadísticas**  
+
+![DarkCore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuel12yt&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel12yt&layout=compact&theme=radical&hide_border=true)  
+
+🌱 _"Siempre aprendiendo y mejorando cada línea de código."_  
+
+---
+
+🔗 **¡Sígueme y conéctate!** 🚀  
+💖 ¡No olvides dejar una estrella ⭐ en mis repositorios si te gustan mis proyectos!
